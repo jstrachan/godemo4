@@ -22,7 +22,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 <title>Greetings to the world</title>
 </head>
 <body>
-<h1>Hello from the `+title+`</h1>
+<h1>Hello from the AWESOME `+title+`</h1>
 </body>
 </html>
         `)
